@@ -90,4 +90,13 @@ img {
 .login {
   font-family: "Fuzzy Bubbles", cursive;
   text-align: center;
+  background-color: transparent;
+}
+
+.askname {
+  height: 32.8px;
+  border-radius: 15px;
+  background-color: beige;
+  padding: 0 30px;
+  border: transparent;
 }
